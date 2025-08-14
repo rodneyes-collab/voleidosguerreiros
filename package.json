@@ -21,9 +21,6 @@
   "license": "ISC",
   "dependencies": {
     "firebase": "^10.0.0"
-    // Adicione outras dependências do seu projeto aqui, como:
-    // "react": "^18.2.0",
-    // "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "webpack": "^5.88.2",
